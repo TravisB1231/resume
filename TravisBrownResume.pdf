@@ -24,13 +24,12 @@
 
 \usepackage[left=0.75in,top=0.3in,right=0.75in,bottom=0.3in]{geometry} % Document margins
 \usepackage{hyperref}
-\usepackage{xcolor}
-%\hypersetup{
-%	colorlinks=true
-%	linkcolor=blue;
-%	filecolor=magenta;      
-%	urlcolor=cyan;
-%}
+\hypersetup{
+	colorlinks=true
+	linkcolor=blue;
+	filecolor=magenta;      
+	urlcolor=cyan;
+}
 
 \urlstyle{same}
 
@@ -75,7 +74,7 @@
 			\vspace{-0.2cm} \item Administrator for 13 Windows servers and 1 RHEL server.
 			\vspace{-0.2cm} \item Conducted server and VLAN ACL audits using Wireshark for packet capture and analysis.
 			\vspace{-0.2cm} \item Segmented College of Education network into more secure VLANs.\vspace{-0.2cm} \item Authored and distributed group policies for the College's OU.
-			\vspace{-0.2cm} \item Wrote PowerShell scripts to automate repetitive tasks and aid in vulnerability mitigation.\vspace{-0.2cm} \item Designed webpages for the College of Music's official {\color{cyan} \href{https://music.fsu.edu/ensembles/orchestras/audition-information-orchestras}{website}}.
+			\vspace{-0.2cm} \item Wrote PowerShell scripts to automate repetitive tasks and aid in vulnerability mitigation.\vspace{-0.2cm} \item Designed webpages for the College of Music's official \href{https://music.fsu.edu/ensembles/orchestras/audition-information-orchestras}{website}.
 		\end{itemize}
 		{\bf Arcvale Entertainment} \hfill {\em November 2019 – June 2020}\\
 		\textit{Unity Programming Intern} \hfill {\em Tallahassee, FL} \smallskip \\
