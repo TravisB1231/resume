@@ -1,8 +1,0 @@
-8/21/22 - Deployed a React application on AWS S3 with static hosting (travisrbrown.com), Route 53, and Cloudfront to take advantage of global caching and HTTPS/TLS certificates.
-https://www.youtube.com/watch?v=mls8tiiI3uc&ab_channel=BeABetterDev
-
-AWS boto3 EC2 management - Python scripts to handle boto3 auth & parse/tag EC2 instances.
-
-Docker-hosted Jenkins pipeline - Docker-hosted Jenkins instance with a pipeline using Git & Insight AppSec plugins.
-
-11/6/22 - Provisioned local files with Terraform
